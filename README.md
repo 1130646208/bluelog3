@@ -2,17 +2,12 @@
 
 *A blue blog.*
 
-> Example application for *[Python Web Development with Flask](http://helloflask.com/en/book)* (《[Flask Web 开发实战](http://helloflask.com/book)》).
-
-Demo: http://bluelog.helloflask.com
-
-![Screenshot](http://helloflask.com/screenshots/bluelog.png)
 
 ## Installation
 
 clone:
 ```
-$ git clone https://github.com/greyli/bluelog.git
+$ git clone https://github.com/1130646208/bluelog3.git
 $ cd bluelog
 ```
 create & activate virtual env then install dependency:
@@ -40,7 +35,4 @@ Test account:
 * username: `admin`
 * password: `helloflask`
 
-## License
 
-This project is licensed under the MIT License (see the
-[LICENSE](LICENSE) file for details).
