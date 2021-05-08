@@ -8,7 +8,7 @@
 clone:
 ```
 $ git clone https://github.com/1130646208/bluelog3.git
-$ cd bluelog
+$ cd bluelog3
 ```
 create & activate virtual env then install dependency:
 
