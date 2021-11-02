@@ -17,6 +17,10 @@ from bluelog.utils import redirect_back
 blog_bp = Blueprint('blog', __name__)
 
 
+@blog_bp.route('/robots.txt')
+def robots():
+    return ''
+
 @blog_bp.route('/')
 def index():
     page = request.args.get('page', 1, type=int)
